@@ -6642,3 +6642,7 @@ body.custom-background {
 .project {
   margin-bottom: 100px;
 }
+
+.description {
+	vertical-align: middle !important;
+}
