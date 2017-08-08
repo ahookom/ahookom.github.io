@@ -320,7 +320,7 @@ h6 {
 	border: none;
 }
 .red-btn {
-	background: #e96656;
+	background: #ce3e2d;
 }
 .green-btn {
 	background: #1e9e6b;
@@ -1435,7 +1435,8 @@ object {
 	box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.08);
 }
 .header-content-wrap {
-	background: url(./blackHeader.jpg) no-repeat center center;
+	background: url(./blackHeader.png) no-repeat center center;
+	background-size: 100% 100%;
 	position: relative;
 	-webkit-box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.08);
 	box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.08);
@@ -2313,7 +2314,8 @@ width: -webkit-calc(100% / 4);
  **   Section: About us;              -----
 -----------------------------------------*/
 .about-us {
-	background: #272727;
+	background: url(./blackHeader.png) no-repeat center center;
+	background-size: 100% 100%;
 	color: #FFF;
 }
 .about-us .big-intro {
@@ -2887,19 +2889,21 @@ width: -webkit-calc(100% / 4);
  **   Testimonial           -----
 -----------------------------------------*/
 .testimonial {
-	background: #8c7620;
+	background: white;
 	padding-bottom: 90px;
 }
 .testimonial .section-header .section-legend {
-	color: #FFF;
+	color: #404040;
 }
 #client-feedbacks .feedback-box, .testimonial .widget_zerif_testim-widget {
     width: 30%;
-    background: #FFFFFF;
+    background: rgb(240,240,240);
     padding: 25px;
     margin: 13px;
     text-align: left;
-    border-radius: 4px;
+		border-radius: 4px;
+		border: solid;
+		border-width: 1px;
     -webkit-box-shadow: none;
     box-shadow: none;
     display: inline-block;
@@ -3094,7 +3098,6 @@ width: -webkit-calc(100% / 4);
 .copyright {
 	padding-top: 68px;
 	padding-bottom: 68px;
-	background: #171717;
 }
 .social {
 	margin: 0 0 1.5em 0 !important;
@@ -6649,6 +6652,7 @@ body.custom-background {
 }
 
 .introduction {
+	text-align: left;
 	color: white;
 	font-size: 100%;
 }
@@ -6663,4 +6667,28 @@ body.custom-background {
 .odd {
 
 	background: rgb(240,240,240);
+}
+
+.moved-right {
+	margin-left: 100px;
+}
+
+
+.social-media {
+	color: #939393;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background: #171717;
+}
+.social-media a {
+	color:#939393;
+	text-decoration:none;
+}
+
+.social-media a:hover {
+	color: #e96656;
+}
+.social-media .icon-top {
+	font-size: 30px;
+	margin-bottom: 10px;
 }
