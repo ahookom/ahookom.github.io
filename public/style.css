@@ -1605,13 +1605,13 @@ object {
 	font-size: 16px;
 	line-height: normal;
     margin-bottom: 0;
-    color: #000;
+    color: #404040;
 }
 .navbar-inverse .navbar-brand .site-title {
     margin-bottom: 5px;
 }
 .navbar-inverse .navbar-brand .site-title a {
-    color: #000;
+    color: #404040;
 }
 
 
@@ -1748,7 +1748,7 @@ ul.nav > li.current_page_item.current > a:before {
 	line-height: 65px;
 	z-index: 0;
 	text-transform: uppercase;
-	font-size: 55px;
+	font-size: 30px;
 	float:none;
 }
 .intro-text, .intro-text a{
@@ -6645,4 +6645,16 @@ body.custom-background {
 
 .description {
 	vertical-align: middle !important;
+}
+
+.introduction {
+	color: white;
+	font-size: 100%;
+}
+
+.introlist {
+	text-overflow: wrap;
+	text-align: left;
+	margin-left: 100px;
+	margin-right: 100px;
 }
