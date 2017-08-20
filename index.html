@@ -172,7 +172,10 @@ Click the help icon above to learn more.
 			<div class="container">
 				<div class='row'>
 					<div class='col-lg-4 col-md-4 col-sm-12'>
-				  	<p><img src="./public/headShot2017woBackgroundshrunk.png" height="250" width="250"></p>
+						<p>
+							<img id="andrew" src="./public/headShot2017woBackgroundshrunk.png" height="250" width="250">
+							<img id="ellie" class="hidden" src="./public/elliePNG.png" height="250" width="250">
+						</p>
 					</div>
    				<div class='col-lg-8 col-md-8 col-sm-12'>
 								<div class='introduction'>
@@ -186,7 +189,7 @@ Click the help icon above to learn more.
 									<ul>
 										<li>I build web applications using <a href='/#skills'>full stack JavaScript</a>.</li>
 										<li>I currently live in Marietta, GA.</li>
-										<li>I enjoy exploring nature with my beautiful <a href='./public/ellie.jpg'>Papillion</a>.</li>
+										<li>I enjoy exploring nature with my beautiful <a id="showEllie" href='#'>Papillion</a>.</li>
 									</ul>
 									Below you'll find more information about my <a href="/#focus">past projects</a> and <a href="/#skills">skill set</a>, as well as <a href="/#testimonials">recommendations</a> of my work.
 									</h4>
@@ -873,7 +876,13 @@ var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_
 	_stq.push([ 'view', {v:'ext',j:'1:5.1',blog:'126342057',post:'4',tz:'0',srv:'www.andrewhookom.com'} ]);
 	_stq.push([ 'clickTrackerInit', '126342057', '4' ]);
 </script>
-
+<script>
+	document.getElementById('showEllie').addEventListener('click',function(e){
+		e.preventDefault()
+		document.getElementById('ellie').classList.toggle('hidden')
+		document.getElementById('andrew').classList.toggle('hidden')
+	})
+</script>
 
 
 

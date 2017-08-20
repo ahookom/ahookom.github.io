@@ -6675,7 +6675,9 @@ body.custom-background {
 .moved-right {
 	margin-left: 100px;
 }
-
+.hidden {
+	display: hide
+}
 
 .social-media {
 	color: #939393;
