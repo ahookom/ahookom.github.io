@@ -1965,6 +1965,7 @@ ul.nav > li.current_page_item.current > a:before {
 /* Links used in sane defaults */
 
 .focus a.zerif-default-links,
+.projects a.zerif-default-links,
 .our-team a.zerif-default-links {
 	color: #404040;
 }
@@ -1978,6 +1979,8 @@ ul.nav > li.current_page_item.current > a:before {
 	color: #404040;
 }
 .focus a.zerif-default-links:hover,
+.skills a.zerif-default-links:hover,
+.projects a.zerif-default-links:hover,
 .about-us a.zerif-default-links:hover,
 .our-team a.zerif-default-links:hover,
 .testimonial a.zerif-default-links:hover,
@@ -6051,7 +6054,7 @@ body.custom-background {
     .section-header {
         padding-bottom: 30px;
     }
-    .focus, .works, .about-us, .features, .packages, .products, .testimonial, .contact-us {
+    .focus, .projects, .skills, .works, .about-us, .features, .packages, .products, .testimonial, .contact-us {
         padding-top: 60px;
         padding-bottom: 60px;
     }
