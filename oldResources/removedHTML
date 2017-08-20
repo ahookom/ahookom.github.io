@@ -1,0 +1,34 @@
+	<div style="display:none">
+	</div>
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='http://www.andrewhookom.com/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel-ie8fix.css?ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<script type="text/javascript" src="./public/photon.js"></script>
+<script type="text/javascript" src="./public/devicepx-jetpack.js"></script>
+<script type="text/javascript" src="./public/gprofiles.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./public/wpgroho.js"></script>
+<script type="text/javascript" src="./public/bootstrap.min.js"></script>
+<script type="text/javascript" src="./public/jquery.knob.js"></script>
+<script type="text/javascript" src="./public/smoothscroll.js"></script>
+<script type="text/javascript" src="./public/scrollReveal.js"></script>
+<script type="text/javascript" src="./public/zerif.js"></script>
+<script type="text/javascript" src="./public/wp-embed.min.js"></script>
+<script type="text/javascript" src="./public/spin.js"></script>
+<script type="text/javascript" src="./public/jquery.spin.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/www.andrewhookom.com\/wp-admin\/admin-ajax.php","nonce":"063fc4211f","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"http:\/\/www.andrewhoookom.com\/wp-login.php?redirect_to=http%3A%2F%2Fwww.andrewhoookom.com%2F2017%2F04%2F25%2Fmy-tech-talk%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./public/jetpack-carousel.js"></script>
+<script type="text/javascript" src="./public/e-201730.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.1',blog:'126342057',post:'4',tz:'0',srv:'www.andrewhookom.com'} ]);
+	_stq.push([ 'clickTrackerInit', '126342057', '4' ]);
+</script>
