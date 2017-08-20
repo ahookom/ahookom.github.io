@@ -1,3 +1,190 @@
+<section class="our-team" id="team"><div class="container"><div class="section-header"><h2 class="dark-text">Using the NERDS stack</h2><div class="section-legend">A scalable web app has great performance (as the load increases, the app adjusts itself to handle the increased load), retains a coherent structure as its complexity grows, and is relatively easy for new developers to learn and maintain. I use the NERDS stack to create dynamic and scalable applications.</div></div><div class="row" data-scrollreveal="enter left after 0s over 0.1s" data-sr-init="true" data-sr-complete="true"><span id="zerif_team-widget-1" class="">
+			<div class="col-lg-3 col-sm-3 team-box">
+
+				<div class="team-member" tabindex="0">
+
+
+
+						<figure class="profile-pic">
+
+							<img src="./public/nodejs-logo-150.png" alt="">
+
+						</figure>
+
+					<div class="member-details">
+
+
+							<h3 class="dark-text red-border-bottom">NODE</h3>
+
+
+
+							<div class="position">Node.js is a JavaScript runtime built on Chrome’s V8 JavaScript engine. Node is designed to build scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js’ package ecosystem, npm, is the largest ecosystem of open source libraries in the world.</div>
+
+
+					</div>
+
+					<div class="social-icons">
+
+						<ul>
+
+
+						</ul>
+
+					</div>
+
+
+				</div>
+
+			</div>
+
+			</span><span id="zerif_team-widget-2" class="">
+			<div class="col-lg-3 col-sm-3 team-box">
+
+				<div class="team-member" tabindex="0">
+
+
+
+						<figure class="profile-pic">
+
+							<img src="./public/express-logo-150.png" alt="">
+
+						</figure>
+
+					<div class="member-details">
+
+
+							<h3 class="dark-text red-border-bottom">Express</h3>
+
+
+
+							<div class="position">Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. With myriad HTTP utility methods and middleware at your disposal, creating a robust API is quick and easy.</div>
+
+
+					</div>
+
+					<div class="social-icons">
+
+						<ul>
+
+
+						</ul>
+
+					</div>
+
+
+				</div>
+
+			</div>
+
+			</span><span id="zerif_team-widget-3" class="">
+			<div class="col-lg-3 col-sm-3 team-box">
+
+				<div class="team-member" tabindex="0">
+
+
+
+						<figure class="profile-pic">
+
+							<img src="./public/react-redux-648-web.png" alt="">
+
+						</figure>
+
+					<div class="member-details">
+
+
+							<h3 class="dark-text red-border-bottom">React/Redux</h3>
+
+
+
+							<div class="position">React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
+
+Redux brings predictability to your application state by keeping the entire state of the app in a single store.</div>
+
+
+					</div>
+
+					<div class="social-icons">
+
+						<ul>
+
+
+						</ul>
+
+					</div>
+
+
+				</div>
+
+			</div>
+
+			</span><span id="zerif_team-widget-4" class="">
+			<div class="col-lg-3 col-sm-3 team-box">
+
+				<div class="team-member" tabindex="0">
+
+
+
+						<figure class="profile-pic">
+
+							<img src="./public/postgresql-logo-400.png" alt="">
+
+						</figure>
+
+					<div class="member-details">
+
+
+							<h3 class="dark-text red-border-bottom">Databases using SQL</h3>
+
+
+
+							<div class="position">SQL is one of the most popular database languages in use today. Specifically, PostgreSQL is a powerful, open source object-relational database system. It has more than 15 years of active development and a proven architecture that has earned it a strong reputation for reliability, data integrity, and correctness.</div>
+
+
+					</div>
+
+					<div class="social-icons">
+
+						<ul>
+
+
+						</ul>
+
+					</div>
+
+
+				</div>
+
+			</div>
+
+			</span>
+	</div>
+	</div>
+	</section>
+
+<script type="text/javascript" src="./public/photon.js"></script>
+<script type="text/javascript" src="./public/devicepx-jetpack.js"></script>
+<script type="text/javascript" src="./public/gprofiles.js"></script>
+<script type="text/javascript" src="./public/wpgroho.js"></script>
+<script type="text/javascript" src="./public/jquery.knob.js"></script>
+<script type="text/javascript" src="./public/wp-embed.min.js"></script>
+<script type="text/javascript" src="./public/spin.js"></script>
+<script type="text/javascript" src="./public/jquery.spin.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/www.andrewhookom.com\/wp-admin\/admin-ajax.php","nonce":"063fc4211f","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"http:\/\/www.andrewhoookom.com\/wp-login.php?redirect_to=http%3A%2F%2Fwww.andrewhoookom.com%2F2017%2F04%2F25%2Fmy-tech-talk%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./public/jetpack-carousel.js"></script>
+<script type="text/javascript" src="./public/e-201730.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.1',blog:'126342057',post:'4',tz:'0',srv:'www.andrewhookom.com'} ]);
+	_stq.push([ 'clickTrackerInit', '126342057', '4' ]);
+</script>
+
+
+
+
 	<div style="display:none">
 	</div>
 <!--[if lte IE 8]>
@@ -12,8 +199,7 @@ var WPGroHo = {"my_hash":""};
 /* ]]> */
 </script>
 <script type="text/javascript" src="./public/wpgroho.js"></script>
-<script type="text/javascript" src="./public/bootstrap.min.js"></script>
-<script type="text/javascript" src="./public/jquery.knob.js"></script>
+
 <script type="text/javascript" src="./public/smoothscroll.js"></script>
 <script type="text/javascript" src="./public/scrollReveal.js"></script>
 <script type="text/javascript" src="./public/zerif.js"></script>
